@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is ErrorLens?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Add a comprehensive answer here (150+ words). Describe what your service does, who it helps, and why it matters."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does ErrorLens work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Step-by-step explanation of your process and what outcomes users can expect."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the key benefits of ErrorLens?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "List 3-5 key benefits. AI engines prioritise content that clearly answers why someone should choose you."
+      }
+    }
+  ]
+}
